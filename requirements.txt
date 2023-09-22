@@ -10,3 +10,6 @@ matplotlib
 ipykernel
 pygam
 gunicorn
+streamlit
+urllib3==1.26.7
+xgboost
