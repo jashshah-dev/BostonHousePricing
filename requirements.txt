@@ -3,7 +3,6 @@ seaborn
 joblib
 scipy
 threadpoolctl
-sklearn
 pandas
 numpy 
 matplotlib
